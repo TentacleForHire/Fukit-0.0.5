@@ -1,3 +1,6 @@
+# Fukit
+ Version 0.0.5
+
 Updates : 
 
 --------------------------------------------------------------------
@@ -12,7 +15,7 @@ August 6th, 2018 04:17 PM
  * Improved the rain effect. Now you can change the width of the water falling area.
  * Slowed down the players cause they were really fast and difficult to maneuver. 
  * Added a menu button in the top left corner. it tries to change the character sprite but fails. 
- * Removed the poorly implamented light engine.
+ * Removed the poorly implamented light engine, making the first comment useless. 
 
 
 Quick note : You can play as the 2nd player with the arrow keys, 
